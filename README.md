@@ -4,6 +4,11 @@ The API behind the clothing store website, the admin back office and the custome
 
 Django 6.1 and Django REST Framework. Part of the [`templates-wardrobe`](https://github.com/mattoznav/templates-wardrobe) template, inside the [`templates`](https://github.com/mattoznav/templates) collection.
 
+## Requirements
+
+- Python 3.12 or newer (Django 6.1 needs it)
+- Nothing else: no database server (the data are CSV files loaded into SQLite) and no payment account (a built-in fake provider simulates payments)
+
 ## Quick start
 
 ```bash
