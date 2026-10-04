@@ -1,0 +1,12 @@
+id,slug,name,position
+1,dresses,Dresses,0
+2,knitwear,Knitwear,1
+3,shirts,Shirts and blouses,2
+4,tops,T-shirts and polos,3
+5,trousers,Trousers and skirts,4
+6,denim,Denim,5
+7,outerwear,Coats and jackets,6
+8,shoes,Shoes,7
+9,bags,Bags,8
+10,accessories,"Scarves, hats and belts",9
+11,jewellery,Jewellery,10

@@ -1,0 +1,17 @@
+id,code,label,system,position
+1,xs,XS,letter,0
+2,s,S,letter,1
+3,m,M,letter,2
+4,l,L,letter,3
+5,xl,XL,letter,4
+6,eu-36,36,shoe,36
+7,eu-37,37,shoe,37
+8,eu-38,38,shoe,38
+9,eu-39,39,shoe,39
+10,eu-40,40,shoe,40
+11,eu-41,41,shoe,41
+12,eu-42,42,shoe,42
+13,eu-43,43,shoe,43
+14,eu-44,44,shoe,44
+15,eu-45,45,shoe,45
+16,one-size,One size,one,0

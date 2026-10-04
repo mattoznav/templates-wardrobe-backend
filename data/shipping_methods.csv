@@ -1,0 +1,4 @@
+id,code,name,description,price,free_over_threshold,days_min,days_max,position
+1,standard,Standard delivery,"Tracked, free on orders over the free shipping amount",6.00,1,3,5,1
+2,express,Express delivery,"Tracked, next working day when ordered before 2pm",15.00,0,1,2,2
+3,pickup,Collect in store,Ready in two hours at the Halden store,0.00,0,0,1,3

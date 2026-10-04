@@ -1,0 +1,30 @@
+id,slug,name,hex
+1,black,Black,#1d1c1a
+2,white,White,#f7f5f0
+3,ivory,Ivory,#f1ebdf
+4,ecru,Ecru,#e7dfcd
+5,cream,Cream,#eee4cf
+6,champagne,Champagne,#d8c4a2
+7,oat,Oat,#d9cdb5
+8,oatmeal,Oatmeal,#cdbfa6
+9,sand,Sand,#d4c09c
+10,stone,Stone,#c5baa6
+11,camel,Camel,#b8895a
+12,tan,Tan,#b27c4b
+13,cognac,Cognac,#94552b
+14,tobacco,Tobacco,#86582f
+15,chestnut,Chestnut,#6b3d22
+16,dark-brown,Dark brown,#47301f
+17,ochre,Ochre,#bd8a3b
+18,oxblood,Oxblood,#5c2229
+19,olive,Olive,#66663f
+20,dove-grey,Dove grey,#b8b4ad
+21,grey-melange,Grey melange,#9b9a97
+22,charcoal,Charcoal,#3b3b3d
+23,navy,Navy,#222d45
+24,indigo,Indigo,#2b3858
+25,mid-blue,Mid blue,#6c87a6
+26,pale-blue,Pale blue,#b6c9df
+27,chambray,Chambray,#7b91ad
+28,gold,Gold,#c8a25a
+29,print,Print,#b48a6c

@@ -1,0 +1,97 @@
+id,product_id,photo_id,colour_id,alt,position
+1,1,1,6,Model in a long champagne silk slip dress in a sunlit corridor,0
+2,1,2,6,Close view of a champagne silk slip dress with fine straps,1
+3,2,3,7,Model in a sleeveless oat linen shift dress against a pale wall,0
+4,3,4,20,"Model in profile wearing a long grey linen wrap dress, holding dried grasses",0
+5,4,5,4,Model leaning on a black panel in an ecru long knit dress,0
+6,4,6,1,Model in a black fine-knit dress against a wooden wall,1
+7,5,7,1,Model seated in a long black dress holding white flowers,0
+8,5,8,1,Model in a black wrap dress by a window,1
+9,6,9,4,Model against a blue sky in a chunky ecru rib sweater,0
+10,6,10,4,Ecru rib sweater pulled over the head against a white wall,1
+11,7,11,8,Close view of an oatmeal cashmere crewneck in a field,0
+12,7,12,,"Folded cashmere sweaters in cream, ochre and camel",1
+13,8,13,1,Model in a black fine merino turtleneck by a colonnade,0
+14,8,14,3,Model seated in an ivory turtleneck and black skirt,1
+15,9,15,11,Smiling model in a camel roll-neck sweater and sunglasses,0
+16,9,16,11,Model in a soft camel roll neck in front of bookshelves,1
+17,10,17,2,Black and white portrait of a model in an open white poplin shirt,0
+18,10,18,2,Close view of a white shirt sleeve next to an olive branch,1
+19,11,19,3,Model in an ivory silk crepe blouse against a white background,0
+20,11,20,3,Detail of pleats and ruffled cuff on an ivory blouse,1
+21,12,21,6,Model in a long champagne satin shirt in a white studio,0
+22,12,22,6,Detail of a champagne satin shirt with ruffled cuff,1
+23,13,23,10,Model seated on a stool in stone pleated trousers and a white shirt,0
+24,13,24,10,Model in stone wide-leg trousers and a white blouse outdoors,1
+25,14,25,21,Grey pleated midi skirt in motion,0
+26,14,26,10,Model sitting on a bench in a taupe pleated skirt,1
+27,15,27,25,"Model in mid-blue straight-leg jeans, one foot on a white chair",0
+28,15,28,25,Mid-blue straight jeans hanging on a rail,1
+29,16,29,11,Model in a belted camel wool coat against a stone wall,0
+30,16,30,11,Detail of a camel wool coat pocket and sleeve,1
+31,17,31,9,Smiling model in a sand trench coat holding a small black bag,0
+32,17,32,9,Model in a light trench coat in a dark bar,1
+33,18,33,9,Model standing in a tiled room in an oversized sand blazer,0
+34,18,34,9,"Model in an oversized sand blazer, hands on hips",1
+35,19,35,23,Man in a navy cable-knit crewneck against a pale wall,0
+36,19,36,23,Navy knit sweater hanging in the dark,1
+37,20,37,1,Man in a black merino crewneck and black trousers in a white studio,0
+38,20,38,22,Man in a charcoal crewneck turning towards the wall,1
+39,21,39,3,Man in profile in an ivory roll-neck sweater,0
+40,21,40,3,Man in a beige suit with an ivory roll neck,1
+41,22,41,26,Man in a pale blue Oxford shirt leaning on a rail,0
+42,22,42,26,Pale blue shirt on a hanger in front of an arch,1
+43,23,43,4,Man in an ecru band-collar linen shirt outdoors,0
+44,23,44,4,Ecru linen shirt hanging from a branch,1
+45,24,45,27,Man in a chambray linen shirt in front of mountains,0
+46,24,46,24,Indigo linen shirt on a hanger over a white tee,1
+47,25,47,10,Man in a stone wool overshirt over a grey tee,0
+48,25,48,10,Man in a light grey overshirt in soft light,1
+49,26,49,4,Man in an ecru canvas overshirt in a golden field,0
+50,26,50,,Close view of the collar and buttons of a canvas overshirt,1
+51,27,51,9,Man in sand pleated trousers and a white tee among rocks,0
+52,27,52,9,Detail of the pleat and pocket on sand wool trousers,1
+53,28,53,24,Folded raw indigo straight jeans on a white table,0
+54,28,54,24,Orange stitching on the back pocket of indigo jeans,1
+55,29,55,4,Man in an ecru canvas jacket standing near horses,0
+56,30,56,11,Man in a camel overcoat and roll neck against a beige wall,0
+57,30,57,11,Man buttoning a camel overcoat,1
+58,31,58,8,Man in an oatmeal double-breasted overcoat in the street,0
+59,31,59,8,Man walking in an oatmeal overcoat,1
+60,32,60,14,Man in a tobacco suede trucker jacket over a dark roll neck,0
+61,32,61,14,Detail of tobacco suede,1
+62,33,62,2,Model in a plain white heavyweight T-shirt and black trousers on a quiet street,0
+63,34,63,23,Man in a navy knitted polo in a garden,0
+64,34,64,11,Man in a camel knitted polo and sunglasses,1
+65,35,65,13,Cognac leather tote hanging from a white door,0
+66,35,66,13,Woman carrying a cognac leather tote at a flower market,1
+67,36,67,10,Stone canvas tote on a white chair,0
+68,37,68,13,Cognac leather barrel bag on a marble table,0
+69,37,69,5,Cream leather barrel bag on a terracotta backdrop,1
+70,38,70,1,Model in a black blazer holding a black leather saddle bag,0
+71,39,71,15,Chestnut leather weekender bag,0
+72,39,72,15,Man carrying a tan leather weekender through a garden,1
+73,40,73,15,Chestnut penny loafers on a black stool,0
+74,40,74,1,Black loafers worn with black trousers,1
+75,41,75,14,Pair of tobacco suede Chelsea boots,0
+76,41,76,14,Suede Chelsea boots on a pale blue background,1
+77,42,77,16,Dark brown leather Chelsea boots,0
+78,42,78,16,Dark brown Chelsea boots on a piece of wood,1
+79,43,79,2,Pair of plain white leather sneakers on black,0
+80,44,80,2,Hand holding a white leather and suede trainer with a gum sole,0
+81,45,81,12,Tan leather block-heel mules by a white column,0
+82,45,82,12,Model wearing tan block-heel mules on stone steps,1
+83,46,83,22,Rolled charcoal ribbed wool scarf on wood,0
+84,46,84,23,Rolled navy ribbed scarf on wood,1
+85,47,85,11,Folded camel cashmere scarf with fringe,0
+86,47,86,21,Grey cashmere scarf with a long fringe,1
+87,48,87,11,Woman in a camel ribbed beanie in a forest,0
+88,48,88,11,Woman seen from behind in a camel beanie in the snow,1
+89,49,89,12,Tan leather belt coiled on a desk,0
+90,49,90,12,Tan belt worn with light jeans and a knit,1
+91,50,91,29,Printed silk scarf tied around a plaster bust,0
+92,50,92,29,Printed silk scarf twisted around an orange slice,1
+93,51,93,28,Pair of gold huggie hoop earrings,0
+94,51,94,28,Gold huggie hoop worn on the ear,1
+95,52,95,28,Gold dome ring on a pebble,0
+96,52,96,28,Gold dome ring among stones,1
