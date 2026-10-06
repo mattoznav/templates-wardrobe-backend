@@ -128,3 +128,7 @@ Public reads, authenticated orders, staff-only writes. Authentication uses JWT: 
 ## Maintenance
 
 `manage.py release_expired_orders` puts back the stock of unpaid orders. The API already does it when products and orders are read; schedule it with cron to keep stock exact between visits.
+
+## License
+
+The code is released under the [MIT License](LICENSE). Product photos are not part of the repository: they are loaded from Unsplash under the [Unsplash License](https://unsplash.com/license).
